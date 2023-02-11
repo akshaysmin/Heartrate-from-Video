@@ -1,0 +1,7 @@
+Include/
+Lib/
+Scripts/
+*.cfg
+*.me
+test.*
+share/
